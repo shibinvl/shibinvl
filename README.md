@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shibinvl
 - 👀 I’m interested and passionate about coding and I love PHP 🙂
-- 🌱 I’m currently learning Laravel 9
+- 🌱 I’m currently learning flutter and python
 - 💞️ I'm experienced in Wordpress, Grav, Yii2, Codeignitor,Opencart
 - 📫 How to reach me : shibinlino@gmail.com
 
